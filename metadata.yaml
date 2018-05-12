@@ -1,0 +1,28 @@
+_repo: Walter-Harland--13-Or-Memories-of-the-Past_15799
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Caswell, Harriet S.
+    aliases:
+    - Caswell, H. S. (Harriet S.)
+    - Caswell, Lemuel E., Mrs.
+    birthdate: 1834
+    gutenberg_agent_id: '6297'
+    url: http://www.gutenberg.org/2009/agents/6297
+description: ''
+gutenberg_issued: '2005-05-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15799'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Fiction'
+title: "Walter Harland\r\nOr, Memories of the Past"
+url: http://www.gutenberg.org/ebooks/15799

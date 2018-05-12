@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '6297'
     url: http://www.gutenberg.org/2009/agents/6297
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15799#Walter-Harland--13-Or-Memories-of-the-Past
 gutenberg_issued: '2005-05-08'
 gutenberg_type: Text
 identifiers:
